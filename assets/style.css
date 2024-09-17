@@ -46,5 +46,12 @@ footer p{
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
-
-
+.cartao__conteudo__pergunta p{
+    color: var(--text-color);
+    font-weight: 500;
+}
+.cartao__conteudo__resposta p{
+    color: var(--card-back-color);
+    font-weight: 700;
+}
+e
