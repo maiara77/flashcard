@@ -22,7 +22,7 @@ footer p{
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(16, 17, 17);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(23% -6rem);
@@ -45,7 +45,7 @@ footer p{
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
-   -
+    --card-back-color: #00F4BF;
 }
 
 
